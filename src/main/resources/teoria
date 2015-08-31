@@ -1,0 +1,32 @@
+RowSet
+
+all rowSet objects are javaBeans Component
+RowSet object has scrollability and updatability by default
+
+
+java.sql.*
+
+java.util.concurrent
+
+fork/join framework
+
+Assertions
+
+try catch AutoClosable -> musi byc zaimplementowany by korzystac z czegos w tej klauzurze i przeciazyc methode close
+
+treeSet !
+
+
+Garbage Collection is preforemd by a low priority daemon thread
+
+walkFileTree()
+
+getPassword()
+
+ListResourceBundle
+
+create resourceBundle
+
+synchronized keyword
+
+thight loos, couping, low high cohesion
